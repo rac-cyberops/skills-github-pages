@@ -1,5 +1,5 @@
-# 🔒 The Critical Importance of Multi-Factor Authentication (MFA)  
-**2025-05-05** | *Cybersecurity Essentials Series*
+title: "# 🔒 The Critical Importance of Multi-Factor Authentication (MFA)  "
+date: **2025-05-05** | *Cybersecurity Essentials Series*
 
 > "One password is never enough in the age of AI-powered cyber attacks."  
 
